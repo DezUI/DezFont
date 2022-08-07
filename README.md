@@ -1,10 +1,10 @@
-# OpenFont by @dezuhan
+# DezFont by @dezuhan
 A collection of fonts made by dezuhan with an OFL license for free.
 
 ### FAQ
 There may be a question you want to ask and find it here.
 <details>
-<summary>What is the font license from DeFont?</summary>
+<summary>What is the font license from DezFont?</summary>
 All of our fonts are guaranteed to use the OFL license and are our original works.
 </details>
 
@@ -19,6 +19,6 @@ No if you don't modify the font. We allow if you modify the font a little signif
 </details>
 
 <details>
-<summary>Who design the fonts DeFont?</summary>
+<summary>Who design the fonts DezFont?</summary>
 All Open Source fonts are designed and owned by Dezuhan (me).
 </details>
