@@ -34,5 +34,5 @@ There may be a question you want to ask and find it here.
 #### TECHNICAL
 <details>
 	<summary>I found a mistake in the fonts, how do i report it?</summary>
-	Unfortunately not, because we focus on fonts that we create ourselves. You might try uploading your fonts on <a href="https://itch.io">itch.io</a>, <a href="https://fontshare.com">Fontshare</a>, dafont and more.
+	You can create a <a href="https://github.com/DezUI/DezFont/issues/new"> new issue</a> and include your details problem.
 </details>
